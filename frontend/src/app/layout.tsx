@@ -1,3 +1,5 @@
+import './globals.css';
+
 export const metadata = {
   title: 'Salus - Support Service Platform',
   description: 'Support service platform for autistic and disabled children in Bangladesh',
