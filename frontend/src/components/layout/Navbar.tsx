@@ -35,6 +35,12 @@ export default function Navbar() {
               Services
             </Link>
             <Link
+              href="/how-it-works"
+              className="text-gray-700 hover:text-blue-600 font-medium transition-colors"
+            >
+              How It Works
+            </Link>
+            <Link
               href="/career"
               className="text-gray-700 hover:text-blue-600 font-medium transition-colors"
             >
