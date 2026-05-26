@@ -35,16 +35,22 @@ export default function Navbar() {
               Services
             </Link>
             <Link
-              href="/referral"
+              href="/how-it-works"
               className="text-gray-700 hover:text-blue-600 font-medium transition-colors"
             >
-              Referral
+              How It Works
             </Link>
             <Link
               href="/career"
               className="text-gray-700 hover:text-blue-600 font-medium transition-colors"
             >
               Career
+            </Link>
+            <Link
+              href="/referral"
+              className="text-gray-700 hover:text-blue-600 font-medium transition-colors"
+            >
+              Referral
             </Link>
             <Link
               href="/contact"
